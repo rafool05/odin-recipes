@@ -1,0 +1,19 @@
+h1{
+    font-size: 48px;
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+ul{
+    list-style-type :none;
+}
+.links p{
+    font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.links a{
+    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    width: 500px;
+}
